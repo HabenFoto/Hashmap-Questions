@@ -1,4 +1,5 @@
-
+# Write a method which will take two strings as arguments 
+# and returns true if one string is a permutation of the other.
 
 def permutations?(string1, string2)
   first_hash = {}

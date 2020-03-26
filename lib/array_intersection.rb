@@ -1,5 +1,6 @@
 #Design and implement a method that takes two integer arrays with unique 
 #values and returns their intersection in a new array.
+
 def intersection(array1, array2)
   intersection = []
   new_hash = {}
