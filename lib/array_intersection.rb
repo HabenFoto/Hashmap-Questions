@@ -15,6 +15,5 @@ def intersection(array1, array2)
     end
   end
   return intersection
-    
 end
 
